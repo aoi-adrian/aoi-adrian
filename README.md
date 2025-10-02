@@ -1,7 +1,6 @@
 - 👋 Olá, me chamo Adrian, você pode me encontrar no GitHub como @aoi-adrian
 - 👀 Estou interessado em aprender sobre programação, desenvolvimento web e machine learning.
-- 🌱 Atualmente estou dando os primeiros passos para entrar no mundo da programação.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Apaixonado por tributação, certamente é uma das áreas que desejo focar minha carreira inicial.
 - 📫 Meu Instagram pessoal é @oadrian_x, futuramente pretendo criar um perfil profissional.
 - ⚡ Fun fact: amo conhecer musicas novas, se souber alguma boa, pode me indicar, meus critérios são gostar do ritmo, apenas.
 
